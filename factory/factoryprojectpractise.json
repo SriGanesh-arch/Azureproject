@@ -1,0 +1,9 @@
+{
+	"name": "factoryprojectpractise",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9f665c1-6b8f-4ccb-ae45-934b48288788",
+		"tenantId": "d0abee1f-211a-4379-9ec9-bf3aa3360a6d"
+	}
+}
