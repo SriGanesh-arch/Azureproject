@@ -1,5 +1,5 @@
 {
-	"name": "Parquet1",
+	"name": "sinkdataset",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
